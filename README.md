@@ -11,7 +11,7 @@ as few as possible plugins and all loose assets combined in multiple BSAs.
 
 
 ### Table of Contents
-1. Getting Started
+1. [Getting Started](https://github.com/HazakTheMad/The-Merge-Method/blob/main/README.md#getting-started)
 2. Filler
 3. More Filler
 4. Glossary
