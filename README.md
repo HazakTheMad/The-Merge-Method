@@ -33,6 +33,7 @@ Should look like C:\Modding\Tools with your tools in there.
 The next step is to install a few mods, here are some bug fix mods, note few of them are plugins.
 
 1. [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)
+
 2. [SKSE](https://github.com/ianpatt/skse64/releases/tag/v2.1.5)
   + Get the most recent one, as of 8/13/2022 it is 2.1.5
 3. [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
@@ -46,6 +47,7 @@ The next step is to install a few mods, here are some bug fix mods, note few of 
 7. [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
   + Get the Aniversary Edition version
 8. [CritterSpawn Congestion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67276?tab=files)
+
 9. [Butterflies Land True](https://www.nexusmods.com/skyrimspecialedition/mods/29434?tab=files)
   + Get the "ESPFE No Formlist Changes" version
 10. [Faster Vanilla Start](https://www.nexusmods.com/skyrimspecialedition/mods/72890?tab=files)
@@ -54,6 +56,7 @@ The next step is to install a few mods, here are some bug fix mods, note few of 
    + Neccsary for some mods, also works better for mouse and keyboard setups.
 12. [Pause after Unload](https://www.nexusmods.com/skyrimspecialedition/mods/60958?tab=files)
    + Get the AE version, also this mod pauses the game after loading screens till you move, this is to stop some enemy from killing you at inoppertune times.
+
 13. [Additemenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563?tab=files)
    + Get the most recent file
 14. [Additemenu NG](https://www.nexusmods.com/skyrimspecialedition/mods/71409?tab=files)
