@@ -24,7 +24,7 @@ First off, you are going to need some tools.
 
 1. [xEdit](https://github.com/TES5Edit/TES5Edit/releases/)
 2. [MO2](https://github.com/ModOrganizer2/modorganizer/releases)
-3. [xEdit Script](https://www.nexusmods.com/skyrim/mods/37981/?tab=files)
+3. [xEdit Merge Script](https://www.nexusmods.com/skyrim/mods/37981/?tab=files)
 
 I suggest making a folder somewhere like C:\ called Modding, within there I suggest a folder called tools,
 put xEdit there and install a portable MO2 instance there.
